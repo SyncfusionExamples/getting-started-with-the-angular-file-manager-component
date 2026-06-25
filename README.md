@@ -1,6 +1,6 @@
 # Getting Started with the Angular File Manager Component
 
-A quick-start Angular project that shows you how to create and configure the Syncfusion Angular File Manager component. This project contains code to configure a few of the control's features: file operations, download and upload a file, and image previews.
+A quick-start Angular project that shows you how to create and configure the Syncfusion [Angular File Manager](https://www.syncfusion.com/angular-components/angular-file-manager?utm_source=github&utm_medium=listing&utm_campaign=angular-file-manager-github-samples) component. This project contains code to configure a few of the control's features: file operations, download and upload a file, and image previews.
 
 Refer to the following documentation for the Syncfusion Angular File Manager: 
 https://ej2.syncfusion.com/angular/documentation/file-manager/getting-started 
