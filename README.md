@@ -3,16 +3,16 @@
 A quick-start Angular project that shows you how to create and configure the Syncfusion [Angular File Manager](https://www.syncfusion.com/angular-components/angular-file-manager?utm_source=github&utm_medium=listing&utm_campaign=angular-file-manager-github-samples) component. This project contains code to configure a few of the control's features: file operations, download and upload a file, and image previews.
 
 Refer to the following documentation for the Syncfusion Angular File Manager: 
-https://ej2.syncfusion.com/angular/documentation/file-manager/getting-started 
+https://ej2.syncfusion.com/angular/documentation/file-manager/getting-started?utm_source=github&utm_medium=listing&utm_campaign=angular-file-manager-github-samples 
 
 Refer to the following documentation to learn about the different file system providers in the Syncfusion Angular File Manager:
-https://ej2.syncfusion.com/angular/documentation/file-manager/file-system-provider 
+https://ej2.syncfusion.com/angular/documentation/file-manager/file-system-provider?utm_source=github&utm_medium=listing&utm_campaign=angular-file-manager-github-samples
 
 Check out this online example of the Syncfusion Angular File Manager: 
-https://ej2.syncfusion.com/angular/demos/#/material3/file-manager/overview 
+https://ej2.syncfusion.com/angular/demos/#/material3/file-manager/overview?utm_source=github&utm_medium=listing&utm_campaign=angular-file-manager-github-samples 
 
 Download the ASP.NET Core file system provider from GitHub: 
-https://github.com/SyncfusionExamples/ej2-aspcore-file-provider 
+https://github.com/SyncfusionExamples/ej2-aspcore-file-provider?utm_source=github&utm_medium=listing&utm_campaign=angular-file-manager-github-samples 
 
 ## Project prerequisites
 
