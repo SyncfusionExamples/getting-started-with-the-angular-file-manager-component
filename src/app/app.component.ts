@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'myangularproject';
 
-  public hostUrl = 'https://ej2-aspcore-service.azurewebsites.net/';
+  public hostUrl = 'https://physical-service.syncfusion.com/';
 
   public ajaxOptions = {
     url: this.hostUrl + 'api/FileManager/FileOperations',
